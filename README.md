@@ -5,6 +5,9 @@ Bootswatch style downloader.
 ## Features
 * Downloads/updates the Bootswatch Themes
 
+## Demonstration
+* [BootswatchDownloader](http://goo.gl/lOEvWb)
+
 ## Support
 Use the [GitHub Issue Tracker](http://goo.gl/6CqA7X) to ask questions and get support.
 
