@@ -1,7 +1,7 @@
 <?php
 	error_reporting(E_ERROR);
 	define('_CODENAME', 'BootswatchDownloader'); 
-	define('_VERSION', '1.0.0'); 
+	define('_VERSION', '1.0.1'); 
 	define('_URL', 'https://github.com/golchha21/BootswatchDownloader');
 	define('DS', DIRECTORY_SEPARATOR);
 	define('ROOT', dirname('../'));
