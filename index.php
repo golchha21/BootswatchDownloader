@@ -115,6 +115,7 @@
 						<ul>
 							<li><a href="https://github.com/golchha21/PhotoshelterAPI" target="_blank" onclick="_gaq.push(['_trackEvent', '<?php echo _CODENAME; ?> Footer actions', '<?php echo _CODENAME; ?> Footer links', 'PhotoshelterAPI']);">PhotoshelterAPI</a></li>
 							<li><a href="https://github.com/golchha21/TheToolSet" target="_blank" onclick="_gaq.push(['_trackEvent', '<?php echo _CODENAME; ?> Footer actions', '<?php echo _CODENAME; ?> Footer links', 'TheToolSet']);">TheToolSet</a></li>
+							<li><a href="https://github.com/golchha21/BoxPHPAPI" target="_blank" onclick="_gaq.push(['_trackEvent', '<?php echo _CODENAME; ?> Footer actions', '<?php echo _CODENAME; ?> Footer links', 'BoxPHPAPI']);">BoxPHPAPI</a></li>
 							<li><a href="https://github.com/golchha21/<?php echo _CODENAME; ?>" target="_blank" onclick="_gaq.push(['_trackEvent', '<?php echo _CODENAME; ?> Footer actions', '<?php echo _CODENAME; ?> Footer links', '<?php echo _CODENAME; ?>']);"><?php echo _CODENAME; ?></a></li>
 						</ul>
 					</div>
